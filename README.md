@@ -2,7 +2,7 @@
 
 > In this video, I demonstrate how CDN-Bypass handles even the toughest Cloudflare protections, including Turnstile
 > 
-[![Watch on YouTube](https://img.youtube.com/vi/vPfpegZvlbw/0.jpg)](https://www.youtube.com/watch?v=BacJr-PyOls)
+[![Watch on YouTube](https://img.youtube.com/vi/BacJr-PyOls/0.jpg)](https://www.youtube.com/watch?v=BacJr-PyOls)
 
 ---
 
